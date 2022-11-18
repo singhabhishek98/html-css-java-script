@@ -1,0 +1,26 @@
+<!doctype>
+<html>
+<head>
+<title> MY FIRST HEADING  </title>
+</head>
+
+<body>
+
+<h1 style="text-align :center;"> WELCOME  TO  KIET  GROUP  OF  INSTITUTIONS     </h1>
+
+<h2> WELCOME  TO  KIET  GROUP  OF  INSTITUTIONS     </h2>
+
+<h3> WELCOME  TO  KIET  GROUP  OF  INSTITUTIONS     </h3>
+
+<h4> WELCOME  TO  KIET  GROUP  OF  INSTITUTIONS     </h4>
+
+<h5> WELCOME  TO  KIET  GROUP  OF  INSTITUTIONS     </h5>
+
+<h6> WELCOME  TO  KIET  GROUP  OF  INSTITUTIONS     </h6> 
+
+<p style="text-align :center;"> WELCOME TO ALL     </h1><br>
+
+<a href="https://www.kiet.edu"><img src="Abhishek.jpg" alt="Abhishek" width="20%" height"20%"></a> <br>
+
+</body>
+</html>
